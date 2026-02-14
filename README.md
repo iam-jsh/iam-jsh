@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Joshua
+# Hi
 
 IT Student | Aspiring Web Developer  
 
